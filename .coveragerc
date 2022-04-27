@@ -1,0 +1,7 @@
+[run]
+source = authentication/,todos/,
+omit=
+    venviro
+    */migrations/*
+    */tests/*
+    */__init__.py
